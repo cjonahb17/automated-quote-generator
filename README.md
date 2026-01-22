@@ -36,9 +36,6 @@ EventBridge Scheduler → AWS Lambda → DynamoDB → Amazon SES
 4. Configure EventBridge Scheduler
 5. Enable schedule to start automation
 
-## Demo Tip
-The schedule can be disabled and enabled live during an interview to demonstrate automation in real time.
-
 ## Future Enhancements
 - Prevent repeated quotes
 - HTML email formatting
